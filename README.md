@@ -1,5 +1,7 @@
 # Cards
 
+link to portfolio: 
+
 I created a project that takes inspiration from a design flash card styudy app exercise. For this
 exercise we designed the app but did not implement in React Native. The application will allow
 users to create and view study card decks. There will be three screens home, add, and study
