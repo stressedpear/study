@@ -1,4 +1,4 @@
-# study
+# Cards
 DIG4639C-portfolio-project
 
 Link to github pages: https://stressedpear.github.io/study/
