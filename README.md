@@ -1,6 +1,7 @@
 # Cards
 
 link to portfolio: 
+link to gitHub page: https://stressedpear.github.io/study/
 
 I created a project that takes inspiration from a design flash card styudy app exercise. For this
 exercise we designed the app but did not implement in React Native. The application will allow
