@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/study/static/js/main.ecb18bd3.js",
+    "static/js/608.d9fce3f6.js": "/study/static/js/608.d9fce3f6.js",
+    "static/media/MaterialCommunityIcons.ttf": "/study/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "favicon.ico": "/study/favicon.ico",
+    "index.html": "/study/index.html",
+    "static/media/rocket.png": "/study/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/study/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/study/favicon-32.png",
+    "static/media/star.png": "/study/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/study/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/study/favicon-16.png",
+    "serve.json": "/study/serve.json",
+    "manifest.json": "/study/manifest.json",
+    "main.ecb18bd3.js.map": "/study/static/js/main.ecb18bd3.js.map",
+    "608.d9fce3f6.js.map": "/study/static/js/608.d9fce3f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/608.d9fce3f6.js",
+    "static/js/main.ecb18bd3.js"
+  ]
+}
