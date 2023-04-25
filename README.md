@@ -1,6 +1,6 @@
 # Cards
 
-link to portfolio: 
+link to portfolio: https://jocelyn0santos30610.myportfolio.com/work
 link to gitHub page: https://stressedpear.github.io/study/
 
 I created a project that takes inspiration from a design flash card styudy app exercise. For this
